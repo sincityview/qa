@@ -3,4 +3,4 @@
 
 ##### Roadmaps:
 
-[qa inter](./intern/) - my QA Inter roadmap
+[QA Intern](./intern/) - my QA Inter roadmap
